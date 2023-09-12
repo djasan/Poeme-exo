@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>POEME Kathleen</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <div>
+          <div id="poeme">
+            <h1>
+              <span>Atelier écriture Kathleen</span>
+
+              Poème écrit par Kathleen, stagiaire chez Média-formation
+            </h1>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section id="poeme-content">
+        <div>
+          <!-- Titre du poème -->
+          <h2>Les choses qui ne font que passer</h2>
+        </div>
+
+        <!-- Contenu du poème -->
+
+        <section id="about">
+          <div>
+            <p>
+              <img src="./images/img1.png" alt="illustration_Sous-partie_1" />
+            </p>
+            <p>
+              <img src="./images/img2.png" alt="illustration_Sous-partie_2" />
+            </p>
+
+            <p>
+              <img src="./images/img3.png" alt="illustration_Sous-partie_3" />
+            </p>
+            <p>
+              <img src="./images/img4.png" alt="illustration_Sous-partie_4" />
+            </p>
+            <p>
+              <img src="images/img5.png" alt="illustration_Sous-partie_5" />
+            </p>
+            <p>
+              <img src="images/img6.png" alt="illustration_Sous-partie_6" />
+            </p>
+            <p>
+              <img src="images/img7.png" alt="illustration_Sous-partie_7" />
+            </p>
+            <p>
+              <img src="./images/img8.png" alt="illustration_Sous-partie_8" />
+            </p>
+          </div>
+        </section>
+        <!-- Première sous-partie -->
+       <section id="sous-partie_1">
+          <div>
+            <h3>
+              Les choses qui ne font que passer... Le vent qui souffle... les
+              oiseaux qui volent... la musique à la radio...
+            </h3>
+          </div>
+        </section>
+        <!-- Deuxième sous-partie -->
+        <section id="sous-partie_2">
+          <div>
+            <h3>
+              Les saisons, les mois, les années... Les minutes, les heures, les
+              jours...
+            </h3>
+          </div>
+        </section>
+        <!-- Troisième sous-partie -->
+        <section id="sous-partie_3">
+          <div>
+            <h3>Les trains...</h3>
+          </div>
+        </section>
+        <!-- Quatrième sous-partie -->
+        <section id="sous-partie_4">
+          <div>
+            <h3>La pub à la télé... Les affiches des films...</h3>
+          </div>
+        </section>
+        <!-- Cinquième sous-partie -->
+        <section id="sous-partie_5">
+          <div>
+            <h3>Un animal qui passe dans un pré....</h3>
+          </div>
+        </section>
+        <!-- Sixième sous-partie -->
+        <section id="sous-partie_6">
+          <div>
+            <h3>Les nuits...</h3>
+          </div>
+        </section>
+        <!-- Septième sous-partie -->
+        <section id="sous-partie_7">
+          <div>
+            <h3>Une feuille qui tombe...</h3>
+          </div>
+        </section>
+        <!-- Huitième sous-partie -->
+        <section id="sous-partie_8">
+          <div>
+            <h3>Les odeurs...</h3>
+          </div>
+        </section>
+      </section>
+    </main>
+  </body>
+</html>
+
